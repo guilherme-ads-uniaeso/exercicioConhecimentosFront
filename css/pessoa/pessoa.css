@@ -13,3 +13,9 @@ img {
     width: 100%;
     height: 100vh;
 }
+
+#tBodyDisciplinas {
+    display: block;
+    max-height: 250px;
+    overflow-y: scroll;
+}
